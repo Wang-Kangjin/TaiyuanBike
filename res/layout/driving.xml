@@ -1,0 +1,46 @@
+ <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+        <com.baidu.mapapi.map.MapView
+            android:id="@+id/driving_bmapsView"
+            android:layout_width="fill_parent"
+            android:layout_height="0dip"
+            android:layout_weight="16"
+            android:clickable="true" />
+
+ <LinearLayout
+     xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="fill_parent"
+     android:layout_height="41dp"
+     android:orientation="horizontal" >
+
+     <Button
+         android:id="@+id/return_back"
+         android:layout_width="0dip"
+         android:layout_height="fill_parent"
+         android:layout_weight="0.5"
+         android:background="#667199"
+         android:gravity="center_vertical|left"
+         android:text="@string/return_back"
+         android:textColor="#ffffff"
+         android:textSize="16sp"
+         android:padding="7dip" />
+
+     <Button
+         android:id="@+id/route_detail"
+         android:layout_width="0dip"
+         android:layout_height="fill_parent"
+         android:layout_weight="0.5"
+         android:background="#667199"
+         android:gravity="center_vertical|right"
+         android:text="@string/look_route"
+         android:textColor="#ffffff"
+         android:textSize="16sp"
+         android:padding="7dip" />
+ </LinearLayout>
+
+    </LinearLayout>
+

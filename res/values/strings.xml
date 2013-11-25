@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">太原公共自行车助手</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="my_pos">我的位置</string>
+	<string name="search">搜索</string>
+	<string name="getroute">获取路线</string>
+	<string name="offline">离线地图</string>
+	<string name="returnbike">还车提醒</string>
+	<string name="setting">设置</string>
+	<string name="quite">退出</string>
+	<string name="near_pio">查看租赁点列表</string>
+	<string name="neap_pio_t">租赁点列表</string>
+	<string name="main_menu">菜单</string>
+	<string name="look_map">查看地图</string>
+	<string name="drivingActivity">骑行路线</string>
+	<string name="return_back">返回</string>
+	<string name="look_route">详细路线</string>
+	<string name="near_first">距离↑</string>
+	<string name="parking_first">剩余车位↓</string>
+	<string name="clear">清空搜索结果</string>
+</resources>
